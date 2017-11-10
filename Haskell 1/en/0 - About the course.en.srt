@@ -1,0 +1,169 @@
+﻿1
+00:00:07,530 --> 00:00:08,360
+Greetings
+
+2
+00:00:08,490 --> 00:00:10,570
+My name is Denis Nikolayevich Moskvin
+
+3
+00:00:10,710 --> 00:00:14,010
+I'm an associate professor in the department
+of mathematical information technologies
+
+4
+00:00:14,040 --> 00:00:16,320
+Saint-Petersburg
+Academic University
+
+5
+00:00:16,480 --> 00:00:18,337
+Russian Academy of Sciences (SPbAU RAS).
+
+6
+00:00:18,630 --> 00:00:21,167
+This course we are introducing, is called
+
+7
+00:00:21,192 --> 00:00:24,589
+Functional Programming
+in Haskell.
+
+8
+00:00:26,020 --> 00:00:29,690
+Functional programming differs
+from the traditional imperative
+
+9
+00:00:29,940 --> 00:00:34,150
+not only in set of basic primitives
+which are used to write programs
+
+10
+00:00:34,210 --> 00:00:36,020
+but also in the execution model.
+
+11
+00:00:36,630 --> 00:00:39,770
+The functional approach
+makes it so much easier
+
+12
+00:00:39,770 --> 00:00:44,375
+to reason about the properties of
+programs and prove their equivalence.
+
+13
+00:00:44,990 --> 00:00:47,970
+This leads to the fact
+that functional programs
+
+14
+00:00:48,000 --> 00:00:50,850
+allow much deeper and more
+aggressive optimization is possible
+
+15
+00:00:51,190 --> 00:00:53,271
+in both high- and low-levels.
+
+16
+00:00:53,620 --> 00:00:57,920
+And also because functional
+programs allow a much more
+
+17
+00:00:57,945 --> 00:00:59,373
+effective parallelization.
+
+18
+00:00:59,440 --> 00:01:01,690
+The idea and method of
+functional programming
+
+19
+00:01:01,820 --> 00:01:05,820
+finds its application both in the
+development of application software
+
+20
+00:01:06,160 --> 00:01:10,496
+and for constructing interactive
+systems for proving theorems.
+
+21
+00:01:11,480 --> 00:01:13,641
+The ideas of functional
+programming have penetrated
+
+22
+00:01:13,666 --> 00:01:15,734
+in many modern
+programming languages
+
+23
+00:01:15,900 --> 00:01:19,343
+making them more or
+less functional.
+
+24
+00:01:20,050 --> 00:01:23,850
+However, we will study functional
+programming using the example of Haskell.
+
+25
+00:01:24,210 --> 00:01:27,390
+Language, in which the paradigm
+of functional programming
+
+26
+00:01:27,430 --> 00:01:31,440
+found the most consistent
+and profound embodiment.
+
+27
+00:01:31,640 --> 00:01:33,898
+In the framework of our
+course we will get acquainted
+
+28
+00:01:33,923 --> 00:01:36,994
+with the following tools and
+methods of building programs:
+
+29
+00:01:37,210 --> 00:01:39,456
+The first is <i>recursion</i>,
+used when defining both
+
+30
+00:01:39,481 --> 00:01:42,015
+data types, and when
+defining functions.
+
+31
+00:01:42,370 --> 00:01:45,100
+<i>Eager</i> and <i>lazy</i> evaluation models.
+
+32
+00:01:45,430 --> 00:01:48,220
+Special and parametric <i>polymorphism </i>.
+
+33
+00:01:48,790 --> 00:01:54,120
+Use of <i>monads</i> to build
+computations with effects.
+
+34
+00:01:54,145 --> 00:01:56,284
+Finally, <i>algebraic data types</i>
+
+35
+00:01:56,360 --> 00:01:58,562
+and pattern matching.
+
+36
+00:01:58,804 --> 00:02:00,724
+I hope our course will be
+useful and interesting.
+
